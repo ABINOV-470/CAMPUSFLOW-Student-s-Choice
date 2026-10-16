@@ -1,0 +1,6 @@
+{
+  "name": "CampusFlow",
+  "description": "An interactive campus life dashboard for college students featuring timetables, task tracking, events, clubs, study focus timer, and weekly productivity analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
